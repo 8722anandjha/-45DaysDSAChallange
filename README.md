@@ -16,3 +16,4 @@ Progress Tracker Table
 | 1 | Set Matrix Zeroes, Pascal Triangle, Next Permutation | ✅ |
 | 2 | Kadane's Algorithm, Sort 0s 1s 2s, Stock Buy & Sell | ✅ |
 | 3 | Rotate Matrix, Merge Intervals, Merge Sorted Arrays | ✅ |
+| 4 | find Duplicate Element, Find Missing and Repeating Number, Count Inversions | ✅ |
